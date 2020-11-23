@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourScreen</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_email">login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="underlined_text"><u>Альбомы</u></string>
+</resources>
